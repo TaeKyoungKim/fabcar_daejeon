@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fabric-ca-client": "^1.4.10",
+    "fabric-network": "^1.4.10",
+    "nconf": "^0.10.0",
+    "path": "^0.12.7",
+    "shelljs": "^0.8.4",
+    "sjcl": "^1.0.8"
   }
 }
